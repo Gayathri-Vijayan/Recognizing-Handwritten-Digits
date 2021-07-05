@@ -2,6 +2,7 @@
 
 Recognizing handwritten text is a problem that can be traced back to the first automatic machines that needed to recognize individual characters in handwritten documents. Think about, for example, the ZIP codes on letters at the post office and the automation needed to recognize these five digits. Perfect recognition of these codes is necessary in order to sort mail automatically and efficiently
 
+
 The objective is to predict the handwritten digits and validating the model using various ranges of training and testing sets.
 
 We chose K-Nearest Neighbor classifier for the training purpose. It is a Machine Learning model that tries to classify new value by comparing it with the values of its closest neighbors. Here we chose the number of neighbor’s as 7. As the initial set of data we took 1795 test images and the rest two images for training. The tested image is also further plotted.
