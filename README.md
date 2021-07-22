@@ -9,4 +9,4 @@ We chose <b> K-Nearest Neighbor </b> classifier for the training purpose. It is 
 
 Initial training was conducted using 1795 images and for the rest of the two images in the dataset was used for testing, which yielded 100 percent accuracy. Following this, we used a train to test ratio of 1700:97, 1400:397 and 1600:197, which in-turn yielded accuracies 0.96,0.95 and 0.948 respectively.
 
-<h2> An approxiamte accuracy of 95% is obtained </h2>
+<h3> An approxiamte accuracy of 95% is obtained </h3>
